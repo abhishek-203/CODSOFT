@@ -12,8 +12,6 @@ padding, color palette, boxes, and other elements. Be mindful of CSS to avoid ov
 elements. In short, a landing page project allows you to apply HTML and CSS skills,
 encouraging your creativity while ensuring a visually appealing and user-friendly design.
 
-## Some of Scremshots of "CodSoft" porjects
-![Screenshots 1st Hindi Articles](/public/images/Screenshot_1.png)
 
 Task 2:- PORTFOLIO PAGE
 Creating a personal portfolio using CSS and HTML is a popular beginner web development
